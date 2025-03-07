@@ -1,0 +1,24 @@
+import React from "react";
+import "./Presentacion.css";
+
+const Presentacion = () => {
+  return (
+    <section id="quienes-somos" className="presentacion-container">
+      <div className="video-container">
+        <video className="video" controls src="/Videos/Yung_Blue.mp4" type="video/mp4">
+          Tu navegador no soporta videos.
+        </video>
+      </div>
+      <div className="texto-container">
+        <h2>¿Quiénes Somos?</h2>
+        <p>
+          Somos una empresa apasionada por crear experiencias de viaje únicas.
+          Te llevamos a los destinos más fascinantes con comodidad, seguridad y
+          aventuras inolvidables.
+        </p>
+      </div>
+    </section>
+  );
+};
+
+export default Presentacion;
