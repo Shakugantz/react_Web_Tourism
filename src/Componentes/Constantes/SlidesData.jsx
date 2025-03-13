@@ -1,34 +1,44 @@
+import Slide1 from "../assets/Imagenes/Slides/Slides1.jpg";
+import Slide2 from "../assets/Imagenes/Slides/Slides2.jpg";
+import Slide3 from "../assets/Imagenes/Slides/Slides3.jpg";
+import Slide4 from "../assets/Imagenes/Slides/Slides4.jpg";
+import Slide5 from "../assets/Imagenes/Slides/Slides5.jpg";
+import Slide6 from "../assets/Imagenes/Slides/Slides6.jpg";
+import Slide7 from "../assets/Imagenes/Slides/Slides7.jpg";
+import Slide8 from "../assets/Imagenes/Slides/Slides8.jpg";
+
+
 const SlidesData = [
     {
-      image: "Imagenes/Slides/Slides1.jpg",
+      image: Slide1,
       text: "Explora la rica historia y cultura de China.",
     },
     {
-      image: "Imagenes/Slides/Slides2.jpg",
+      image: Slide2,
       text: "Descubre los templos ancestrales y su arquitectura.",
     },
     {
-      image: "Imagenes/Slides/Slides3.jpg",
+      image: Slide3,
       text: "Disfruta de la exquisita gastronomía china.",
     },
     {
-      image: "Imagenes/Slides/Slides4.jpg",
+      image: Slide4,
       text: "Maravíllate con los paisajes naturales impresionantes.",
     },
     {
-      image: "Imagenes/Slides/Slides5.jpg",
+      image: Slide5,
       text: "Algo para rellenar.",
     },
     {
-      image: "Imagenes/Slides/Slides6.jpg",
+      image: Slide6,
       text: "Conceptos lindos.",
     },
     {
-      image: "Imagenes/Slides/Slides7.jpg",
+      image: Slide7,
       text: "Mira esos paisejes.",
     },
     {
-      image: "Imagenes/Slides/Slides8.jpg",
+      image: Slide8,
       text: "A ella le brilan los ojos como estrella del norte.",
     },
   ];
