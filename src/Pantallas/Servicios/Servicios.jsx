@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./Servicios.css";
-import PopUpServicios from "../../Componentes/PopUp/PopUpServicios";
-import serviciosData from "../../Componentes/Constantes/ServiciosData";
+import PopUpServicios from "../../componentes/popUp/PopUpServicios";
+import serviciosData from "../../componentes/constantes/ServiciosData";
 
 const Servicios = () => {
   const [servicioSeleccionado, setServicioSeleccionado] = useState(null);

@@ -1,10 +1,10 @@
-import NavBar from "./Componentes/NavBar/NavBar";
-import Inicio from "./Componentes/Pantallas/Inicio/Inicio";
-import Presentacion from "./Componentes/Pantallas/Presentacion/Presentacion";
-import Servicios from "./Componentes/Pantallas/Servicios/Servicios";
-import Contactar from "./Componentes/Pantallas/Contactar/Contactar";
-import Footer from "./Componentes/Footer/Footer";
-import "./Componentes/Fondos/Fondos";
+import NavBar from "./componentes/navbar/NavBar";
+import Inicio from "./componentes/pantallas/inicio/Inicio";
+import Presentacion from "./componentes/pantallas/presentacion/Presentacion";
+import Servicios from "./componentes/pantallas/servicios/Servicios";
+import Contactar from "./componentes/pantallas/contactar/Contactar";
+import Footer from "./componentes/footer/Footer";
+import "./componentes/fondos/Fondos";
 
 function App() {
   return (

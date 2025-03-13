@@ -2,8 +2,8 @@ import React, { useState, useEffect } from "react";
 import { Link, Events, scrollSpy } from "react-scroll";
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 import { SiRedragon } from "react-icons/si";
-import PopUpContactar from "../PopUp/PopUpContactar";
-import NavBarData from "../Constantes/NavBarData";
+import PopUpContactar from "../popup/PopUpContactar";
+import NavBarData from "../constantes/NavBarData";
 import "./NavBar.css";
 
 const NavBar = () => {
