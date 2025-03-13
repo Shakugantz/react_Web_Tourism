@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Servicios.css";
-import PopUpServicios from "../../componentes/popUp/PopUpServicios";
+import PopUpServicios from "../../componentes/popup/PopUpServicios";
 import serviciosData from "../../componentes/constantes/ServiciosData";
 
 const Servicios = () => {

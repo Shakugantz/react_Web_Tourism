@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./Inicio.css";
-import slides from "../../Constantes/SlidesData"; // 📌 Archivo separado con las imágenes y textos
+import slides from "../../componentes/constantes/SlidesData"; // 📌 Archivo separado con las imágenes y textos
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa"; // 📌 Iconos de flechas
 
 const Inicio = () => {

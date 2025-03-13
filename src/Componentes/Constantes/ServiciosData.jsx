@@ -1,8 +1,7 @@
-import Servicios1 from "../assets/imagenes/servicios/Servicios1.png";
-import Servicios2 from "../assets/imagenes/servicios/Servicios2.png";
-import Servicios3 from "../assets/imagenes/servicios/Servicios3.png";
-import Servicios4 from "../assets/imagenes/servicios/Servicios4.png";
-
+import Servicios1 from "../../assets/imagenes/servicios/Servicios1.png";
+import Servicios2 from "../../assets/imagenes/servicios/Servicios2.png";
+import Servicios3 from "../../assets/imagenes/servicios/Servicios3.png";
+import Servicios4 from "../../assets/imagenes/servicios/Servicios4.png";
 
 const serviciosData = [
   {

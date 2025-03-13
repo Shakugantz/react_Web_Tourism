@@ -7,7 +7,7 @@ import {
   FaPaperPlane,
 } from "react-icons/fa";
 import "./Contactar.css";
-import PopUpContactar from "../../popUp/PopUpContactar";
+import PopUpContactar from "../../componentes/popup/PopUpContactar";
 
 const Contactar = () => {
   const [formData, setFormData] = useState({

@@ -1,11 +1,12 @@
 import React from "react";
 import "./Presentacion.css";
+import YungBlue from "../../assets/videos/Yung_Blue.mp4";
 
 const Presentacion = () => {
   return (
     <section id="quienes-somos" className="presentacion-container">
       <div className="video-container">
-        <video className="video" controls src="/Videos/Yung_Blue.mp4" type="video/mp4">
+        <video className="video" controls src={YungBlue} type="video/mp4">
           Tu navegador no soporta videos.
         </video>
       </div>
